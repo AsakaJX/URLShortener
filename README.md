@@ -1,4 +1,4 @@
-# EVA - simple URL shortener
+# Simple URL shortener
 
 ## Feautures:
 - [x] Create new short link with public identifier
